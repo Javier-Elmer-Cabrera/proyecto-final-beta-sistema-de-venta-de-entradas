@@ -8,6 +8,6 @@
 | Denis | Quispe Condori | 24200032 | [DENIISQC](https://github.com/DENIISQC) |
 | Leonardo Fared | Cumpén Arboleda | 24200217 | [CumpenLeonardo](https://github.com/CumpenLeonardo) |
 | John Fernando | Julca Tarazona | 24200019 | [yom1719](https://github.com/yom1719) |
-| Yosué Leithold | Cerdán Medina | 24200095 | [@usuario4](https://github.com/usuario4) |
+| Yosué Leitold | Cerdán Medina | 24200095 | [@usuario4](https://github.com/usuario4) |
 | Alysson Kiara | Cruz Ramos | 24200143 | [AlyssonCruz44](https://github.com/AlyssonCruz44) |
 | Beckham | Alegre Huamani | 24200088 | [Beckham-Coder](https://github.com/Beckham-Coder) |
