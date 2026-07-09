@@ -4,7 +4,7 @@
 
 | Nombres | Apellidos | Código | GitHub |
 |----------|------------|---------|--------|
-| Manuel Sebastián | Vera Orrego | 24200132 | b4-ms |
+| Manuel Sebastián | Vera Orrego | 24200132 | [b4-ms](https://github.com/b4-ms) |
 | Denis | Quispe Condori | 24200032 | [DENIISQC](https://github.com/DENIISQC) |
 | Leonardo Fared | Cumpén Arboleda | 24200217 | [CumpenLeonardo](https://github.com/CumpenLeonardo) |
 | John Fernando | Julca Tarazona | 24200019 | [yom1719](https://github.com/yom1719) |
