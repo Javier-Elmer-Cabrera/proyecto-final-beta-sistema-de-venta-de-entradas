@@ -2,18 +2,27 @@
 
 Proyecto Java Swing con arquitectura **MVC** y build system **Apache Ant**.
 
-## Estructura
+## Estructura del Proyecto
+
 ```
-src/
-├── App.java                         (arranque de la aplicacion)
-├── model/                           (MODELO - estructuras de datos)
-│   ├── Sala.java                    -> matriz de asientos (char[][])
-│   ├── Pelicula.java
-│   ├── NodoArbol.java               -> nodo BST (clave: genero|horario|sala)
-│   ├── ArbolPeliculas.java          -> arbol BST de cartelera
-│   └── Reserva.java
-├── controller/                      (CONTROLADOR - logica de negocio)
-│   └── Controlador.java             -> cola de reservas (Queue) + reglas
-└── view/                            (VISTA - interfaz grafica Swing)
-    └── Vista.java
+CineMulticinemas_MVC/
+│
+├── src/
+│   ├── App.java
+│   ├── controller/
+│   │   └── Controlador.java
+│   ├── model/
+│   │   ├── ArbolPeliculas.java
+│   │   ├── ColaReservas.java
+│   │   ├── NodoArbol.java
+│   │   ├── NodoCola.java
+│   │   ├── Pelicula.java
+│   │   ├── Reserva.java
+│   │   └── Sala.java
+│   └── view/
+│       └── Vista.java
+│
+├── build.xml
+└── README.md
+
 ```
