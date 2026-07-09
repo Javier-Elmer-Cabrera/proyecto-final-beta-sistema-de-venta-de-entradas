@@ -10,4 +10,4 @@
 | John Fernando | Julca Tarazona | 24200019 | yom1719 |
 | Yosué Leithold | Cerdán Medina | 20XXXXXX | [@usuario4](https://github.com/usuario4) |
 | Alysson Kiara | Cruz Ramos | 20XXXXXX | [@usuario4](https://github.com/usuario4) |
-| Beckham | Alegre Huamani | 24200088 | beck |
+| Beckham | Alegre Huamani | 24200088 | Beckham-Coder |
