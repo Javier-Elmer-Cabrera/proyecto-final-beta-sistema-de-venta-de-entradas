@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="CineMulticinemas" default="run" basedir=".">
+
+    <description>
+        Sistema de Venta de Entradas - Cine Multicinemas (Ant Build)
+    </description>
+
+    <!-- Directorios -->
+    <property name="src.dir"     value="src"/>
+    <property name="build.dir"   value="build/classes"/>
+    <property name="dist.dir"    value="dist"/>
+    <property name="jar.name"    value="sistema-cine.jar"/>
+    <property name="main.class"  value="App"/>
+
+    <!-- Limpiar compilacion anterior -->
+    <target name="clean" description="Elimina archivos compilados y el JAR">
+        <delete dir="build"/>
+        <delete dir="${dist.dir}"/>
+    </target>
+
+    <!-- Compilar fuentes -->
+    <target name="compile" description="Compila los archivos .java">
+        <mkdir dir="${build.dir}"/>
+        <javac srcdir="${src.dir}"
+               destdir="${build.dir}"
+               includeantruntime="false"
+               encoding="UTF-8"
+               source="17"
+               target="17"/>
+    </target>
+
+    <!-- Generar JAR ejecutable -->
+    <target name="jar" depends="compile" description="Genera el JAR ejecutable">
+        <mkdir dir="${dist.dir}"/>
+        <jar destfile="${dist.dir}/${jar.name}" basedir="${build.dir}">
+            <manifest>
+                <attribute name="Main-Class" value="${main.class}"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <!-- Ejecutar la aplicacion -->
+    <target name="run" depends="compile" description="Ejecuta la aplicacion">
+        <java classname="${main.class}" classpath="${build.dir}" fork="true"/>
+    </target>
+
+</project>
