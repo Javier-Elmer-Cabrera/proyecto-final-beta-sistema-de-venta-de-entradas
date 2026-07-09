@@ -21,7 +21,7 @@ CineMulticinemas_/
 │   ├── view/
 │   |   └── Vista.java
 │   └── App.java
-├── build.xml
-└── README.md
+├── README.md
+└── build.xml
 
 ```
