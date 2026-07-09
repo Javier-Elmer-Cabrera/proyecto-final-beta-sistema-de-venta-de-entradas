@@ -17,19 +17,3 @@ src/
 └── view/                            (VISTA - interfaz grafica Swing)
     └── Vista.java
 ```
-
-## Compilar y ejecutar (Ant)
-```
-ant compile
-ant run
-ant jar
-```
-
-## Compilar y ejecutar (manual, sin Ant)
-```
-javac -d build/classes -encoding UTF-8 -sourcepath src src/App.java
-java -cp build/classes App
-```
-
-Requiere JDK 17 o superior. No usa base de datos ni archivos en disco;
-todos los datos se mantienen en memoria durante la ejecucion.
