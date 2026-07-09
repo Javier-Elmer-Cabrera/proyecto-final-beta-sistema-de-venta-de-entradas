@@ -5,7 +5,7 @@ Proyecto Java Swing con arquitectura **MVC** y build system **Apache Ant**.
 ## Estructura del Proyecto
 
 ```
-CineMulticinemas_MVC/
+CineMulticinemas_/
 │
 ├── src/
 │   ├── controller/
