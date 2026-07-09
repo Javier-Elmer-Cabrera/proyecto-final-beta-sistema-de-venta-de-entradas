@@ -6,7 +6,7 @@
 |----------|------------|---------|--------|
 | Manuel Sebastián | Vera Orrego | 24200132 | b4-ms |
 | Denis | Quispe Condori | 20XXXXXX | [@usuario2](https://github.com/usuario2) |
-| Leonardo Fared | Cumpén Arboleda | 20XXXXXX | [@usuario3](https://github.com/usuario3) |
+| Leonardo Fared | Cumpén Arboleda | 24200217 | [CumpenLeonardo](https://github.com/CumpenLeonardo) |
 | John Fernando | Julca Tarazona | 20XXXXXX | [@usuario4](https://github.com/usuario4) |
 | Yosué Leithold | Cerdán Medina | 20XXXXXX | [@usuario4](https://github.com/usuario4) |
 | Alysson Kiara | Cruz Ramos | 20XXXXXX | [@usuario4](https://github.com/usuario4) |
