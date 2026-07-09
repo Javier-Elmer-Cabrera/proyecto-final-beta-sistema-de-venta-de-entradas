@@ -8,7 +8,6 @@ Proyecto Java Swing con arquitectura **MVC** y build system **Apache Ant**.
 CineMulticinemas_MVC/
 │
 ├── src/
-│   ├── App.java
 │   ├── controller/
 │   │   └── Controlador.java
 │   ├── model/
@@ -19,9 +18,9 @@ CineMulticinemas_MVC/
 │   │   ├── Pelicula.java
 │   │   ├── Reserva.java
 │   │   └── Sala.java
-│   └── view/
-│       └── Vista.java
-│
+│   ├── view/
+│   |   └── Vista.java
+│   └── App.java
 ├── build.xml
 └── README.md
 
