@@ -5,6 +5,6 @@
 - **Quispe Condori Denis** - GitHub: @usuario2
 - **Cumpén Arboleda Leonardo Fared** - GitHub: @usuario3
 - **Julca Tarazona John Fernando** - GitHub: @usuario4
-- - **Cerdán Medina Yosué Leithold** - GitHub: @usuario4
+- **Cerdán Medina Yosué Leithold** - GitHub: @usuario4
 - **Alegre Huamani Beckham** - GitHub: @usuario4
-- - **Cruz Ramos Alysson Kiara** - GitHub: @usuario4
+- **Cruz Ramos Alysson Kiara** - GitHub: @usuario4
